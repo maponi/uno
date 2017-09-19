@@ -1,3 +1,4 @@
+// test funzionamento apici
 <?php
 $nome = "Giovanni";
 $saluto = "Buongiorno $nome"; // contiene: Buongiorno Giovanni
